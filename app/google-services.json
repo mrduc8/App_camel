@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "858878575465",
+    "firebase_url": "https://camel-2a7f2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "camel-2a7f2",
+    "storage_bucket": "camel-2a7f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858878575465:android:ef0f05161cf87c1eb633f8",
+        "android_client_info": {
+          "package_name": "com.dnd.camel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdAP_-yb1PEdiG7wRyN5p6VdmUm5cLVB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
